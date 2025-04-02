@@ -42,11 +42,6 @@
 
 ---
 
-### 🏆 GitHub Stats:
-
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pk1331" alt="pk1331" /></a> </p>
-
----
 
 ### 🚀 Fun Fact:
 > *During an interview, I was asked how much Biryani I ate, and I said, "Only one!"* 😂🍛
@@ -65,3 +60,5 @@
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmk1MTA3bjMxcXBubzB0NjR3Z3RsbmQ5cHZwd2xydDZ6NnQ2cmR3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" />
 </div>
+
+
